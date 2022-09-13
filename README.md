@@ -1,5 +1,5 @@
 # FastFood
-Online food order console application.
+Online food order console application.(In progress)
 
 Welcome to FastFood Delivery!
 
@@ -7,11 +7,11 @@ MENU:
 
 SANDWICHES:
 
-1. Sandwich with chicken stake - 600 grams - 7.00 leva.
-2. Sandwich with pork stake - 600 grams - 7.00 leva.
-3. Sandwich with ham - 500 grams - 5.30 leva.
-4. Sandwich with cheese - 450 grams - 5.10 leva.
-5. Sandwich with meatballs - 520 grams - 5.50 leva.
+1. entities.sandwiches.Sandwich with chicken stake - 600 grams - 7.00 leva.
+2. entities.sandwiches.Sandwich with pork stake - 600 grams - 7.00 leva.
+3. entities.sandwiches.Sandwich with ham - 500 grams - 5.30 leva.
+4. entities.sandwiches.Sandwich with cheese - 450 grams - 5.10 leva.
+5. entities.sandwiches.Sandwich with meatballs - 520 grams - 5.50 leva.
 
 GRILL SANDWICHES:
 
